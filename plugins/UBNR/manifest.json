@@ -1,0 +1,23 @@
+{
+  "name": "UBNR",
+  "displayName": "UBNR - Nitro Visual Spoof",
+  "description": "Simula localmente o banner de perfil e o ícone Nitro no Discord sem precisar de Nitro. Apenas o usuário que ativou o plugin vê as alterações.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mnklak",
+    "github": "https://github.com/mnklak"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "tags": [
+    "visual",
+    "perfil",
+    "nitro",
+    "spoof",
+    "cosmético",
+    "discord"
+  ],
+  "sourceUrl": "https://github.com/mnklak/bunny-plugins/tree/main/UBNR",
+  "updateUrl": "https://raw.githubusercontent.com/mnklak/bunny-plugins/main/UBNR/manifest.json",
+  "icon": "https://cdn.discordapp.com/emojis/1052780891304794172.webp?size=96&quality=lossless"
+}
